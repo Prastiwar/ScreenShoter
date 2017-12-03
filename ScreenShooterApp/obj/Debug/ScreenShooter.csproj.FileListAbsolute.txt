@@ -1,0 +1,13 @@
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.exe.manifest
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.application
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.exe
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.pdb
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShooter.csprojResolveAssemblyReference.cache
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\TP.ScreenShooter.Form1.resources
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShooter.csproj.GenerateResource.Cache
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShooter.csproj.CoreCompileInputs.cache
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.TrustInfo.xml
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.exe.manifest
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.application
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.exe
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.pdb
