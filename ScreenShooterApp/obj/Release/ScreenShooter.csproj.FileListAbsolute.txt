@@ -22,3 +22,4 @@ C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenS
 C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Release\ScreenShoter.application
 C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Release\ScreenShoter.exe
 C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Release\ScreenShoter.pdb
+C:\Users\Komputer\Documents\Visual Studio 2017\Projects\ScreenShooterApp\ScreenShoter\ScreenShooterApp\obj\Release\ScreenShooter.csprojResolveAssemblyReference.cache
