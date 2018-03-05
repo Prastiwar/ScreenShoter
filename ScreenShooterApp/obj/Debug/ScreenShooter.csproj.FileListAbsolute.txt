@@ -1,0 +1,12 @@
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.exe.manifest
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.application
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.exe
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\bin\Debug\ScreenShoter.pdb
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\TP.ScreenShooter.Form1.resources
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShooter.csproj.GenerateResource.Cache
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShooter.csproj.CoreCompileInputs.cache
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.TrustInfo.xml
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.exe.manifest
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.application
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.exe
+C:\Users\Laptop\Desktop\Github\ScreenShoter\ScreenShooterApp\obj\Debug\ScreenShoter.pdb
